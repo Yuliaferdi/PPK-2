@@ -1,0 +1,32 @@
+
+	h1{
+	   color:red;
+	   text-align:center;
+	}
+	body{
+	   background-image: url("tugu.jpg");
+	}
+	p{
+ 	   color:blue;
+	}
+
+	#coba{
+	   background-color: aqua;
+	}
+
+	#coba2{
+	   background-color: lightgray;
+	}
+
+	.try{
+	   padding: 10px;
+	}
+
+	.desc{
+	   font-weight: bold;
+	}
+
+	/*p.try{
+	   background-color: gray;
+	   color: white;
+	}*/
